@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PhotoApp</string>
+
+    <string name="photo">PHOTO</string>
+    <string name="splash_screen">PHOTO APP</string>
+    <string name="developer">Информация о разработчике:</string>
+    <string name="name">ФИО Заворотнюк О.В.</string>
+    <string name="phone">тел: 8(978)06 99 338</string>
+    <string name="library">Список библиотек:</string>
+    <string name="library_1">1.com.google.android.material:material:1.1.0</string>
+    <string name="library_2">2.androidx.recyclerview:recyclerview:1.1.0</string>
+    <string name="library_3">3.androidx.cardview:cardview:1.0.0</string>
+    <string name="library_4">4.com.squareup.picasso:picasso:2.5.0</string>
+    <string name="library_5">5.com.squareup.retrofit2:retrofit:2.4.0</string>
+    <string name="library_6">6.com.squareup.retrofit2:converter-gson:2.2.0</string>
+    <string name="library_7">7.androidx.swiperefreshlayout:swiperefreshlayout:1.1.0</string>
+</resources>
